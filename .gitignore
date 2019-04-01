@@ -1,0 +1,4 @@
+/vendor
+.editorconfig
+.DS_Store
+composer.lock
